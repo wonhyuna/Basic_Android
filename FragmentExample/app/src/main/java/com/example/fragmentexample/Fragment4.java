@@ -9,6 +9,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
+//Fragment4와 연결
 public class Fragment4 extends Fragment {
     public Fragment4(){
 

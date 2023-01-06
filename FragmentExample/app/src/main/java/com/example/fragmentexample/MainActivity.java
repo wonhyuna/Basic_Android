@@ -23,6 +23,7 @@ public class MainActivity extends AppCompatActivity {
         btn3 = (Button)findViewById(R.id.btn_3);
         btn4 = (Button)findViewById(R.id.btn_4);
 
+        //각각의 버튼을 선택했을 때 해당하는 프래그먼트로 변경을 짓는 코드
         btn1.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
