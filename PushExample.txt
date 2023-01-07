@@ -1,0 +1,7 @@
+본 강의 내용 링크
+https://www.inflearn.com/course/%ED%98%84%EC%A7%81%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1/unit/51114?tab=curriculum&category=questionDetail
+
+FCM 최신 변경
+https://duckssi.tistory.com/19
+
+-- 너무 처음부터 코드가 많이 달라서 우선 스킵
