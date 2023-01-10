@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/action_bright"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_brightness_1_24"
+        android:title="밝기"/>
+
+    <item
+        android:id="@+id/action_favorite"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:title="좋아"/>
+
+    <item
+        android:id="@+id/action_restore"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_restore_24"
+        android:title="복원"/>
+
+    <item
+        android:id="@+id/action_rss"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_rss_feed_24"
+        android:title="와파"/>
+
+    <item
+        android:id="@+id/action_school"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_school_24"
+        android:title="학교"/>
+</menu>
